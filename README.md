@@ -1,4 +1,4 @@
-# Final project in Machine learning class 2021
+# Final project in Mathematics of data science class 2021
  created by 
  Charun Setsiripaiboon,
  Sunthon Sriraksa 
